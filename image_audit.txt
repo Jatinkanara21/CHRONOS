@@ -1,0 +1,86 @@
+--- DATABASE IMAGE PATHS ---
+watches/5rBar1J0uDmcxetyOCYkGA4dYrOrXZSvakDhNyB7.png
+watches/UcJxlzcwSl0g05JcniyG8565EC1a8omtYXdQrV7Z.jpg
+watches/4uKJVzHyvjbPJGZrRsmSy7adBNpp4ikiYOTpbgZX.jpg
+watches/v3VHod02FMHZhUAyvBxyI6kkmdaXoIkW1YFkBWBT.jpg
+watches/BCY6ydg7j4FFN8gnBgHbKGwmukstQDqbqMvQ3UGk.png
+watches/HYhETTmM7TaOv5OhlKVrwd5elyqfDxvHHWydudOe.jpg
+watches/iuSClXytTLjWvUemY20VUx2Ndma0XcbXQEFPXnKZ.jpg
+watches/XFN0NKyFqoIkRMfVhwZo49xYqoeeyHANex4wgHTw.jpg
+watches/i71ijQs5plXNqLZIxzhfAE0YTkeiTbi42z3aWTIs.jpg
+watches/jST7Cp1xfggUG5vqrgygtkLtYPHsYYoZKFtOvl41.jpg
+watches/X4m0X6Tj7k0xfCTvzkykzcl3Bt3NyZE8AmIQdExQ.jpg
+watches/Sbq8xFijoIjcY1SeQmRRzP6wzBIfzm35Cgk6OZFO.jpg
+watches/3052og2qzALA2gRjjKoKwLoYAgAvkRIxVbAoIe7d.jpg
+watches/zZOW1asnRmVN6yrCHWDYjrCE0PBB9rxzZ8N78t7E.jpg
+watches/GG1DhVxgNVOz0MyVOPApd1prcStnMLgUGQNqrttG.jpg
+watches/1ICqoQorsqz1C2X3HwU7JAaE5EFP7dJybKD5bu8p.jpg
+
+--- DISK FILES (storage/app/public/watches) ---
+watches/1575d44a-bd5e-4770-a831-ddba153b8e63.jpg
+watches/25675acf-53f9-403d-8178-b803502b3c0b.jpg
+watches/33d28fa5-9496-43fb-a675-cb88c4f855d9.jpg
+watches/4988f1d7-8f73-4d4a-81af-94830f34c806.jpg
+watches/5e3ae809-5e9b-4d8d-8010-d2150d7b1e40.jpg
+watches/6917b5c7-9418-4c81-a963-7b1fbd2a16ab.jpg
+watches/8196459a-1971-471d-9fdb-3b9c74a58d0b.jpg
+watches/96e4f8ed-17ed-49db-a5a7-dd4451c75e16.jpg
+watches/ChatGPT Image Feb 13, 2026, 05_58_55 PM.png
+watches/ChatGPT Image Feb 13, 2026, 06_00_48 PM.png
+watches/ChatGPT Image Feb 13, 2026, 06_01_20 PM.png
+watches/ChatGPT Image Feb 13, 2026, 06_48_40 PM.png
+watches/ChatGPT Image Feb 13, 2026, 06_50_15 PM.png
+watches/ChatGPT Image Feb 13, 2026, 06_54_36 PM.png
+watches/ChatGPT Image Feb 13, 2026, 06_56_59 PM.png
+watches/ChatGPT Image Feb 13, 2026, 06_59_00 PM (1).png
+watches/ChatGPT Image Feb 13, 2026, 06_59_00 PM.png
+watches/Gemini_Generated_Image_f9x666f9x666f9x6.png
+watches/b6ea0321-4889-4241-8ecb-ed662a09a0da.jpg
+watches/d41aa611-d94c-4dd8-ac8e-237bd9e36a88.jpg
+watches/df16a295-469c-4fec-a64a-7a7e62be4602.jpg
+watches/ec8533b5-84f6-45dc-b688-4fed5b7a386e.jpg
+watches/ff3a1c3d-5bbc-4ad4-8a53-e5080dfdf74a.jpg
+
+--- MISSING ON DISK (In DB but not on disk) ---
+watches/5rBar1J0uDmcxetyOCYkGA4dYrOrXZSvakDhNyB7.png
+watches/UcJxlzcwSl0g05JcniyG8565EC1a8omtYXdQrV7Z.jpg
+watches/4uKJVzHyvjbPJGZrRsmSy7adBNpp4ikiYOTpbgZX.jpg
+watches/v3VHod02FMHZhUAyvBxyI6kkmdaXoIkW1YFkBWBT.jpg
+watches/BCY6ydg7j4FFN8gnBgHbKGwmukstQDqbqMvQ3UGk.png
+watches/HYhETTmM7TaOv5OhlKVrwd5elyqfDxvHHWydudOe.jpg
+watches/iuSClXytTLjWvUemY20VUx2Ndma0XcbXQEFPXnKZ.jpg
+watches/XFN0NKyFqoIkRMfVhwZo49xYqoeeyHANex4wgHTw.jpg
+watches/i71ijQs5plXNqLZIxzhfAE0YTkeiTbi42z3aWTIs.jpg
+watches/jST7Cp1xfggUG5vqrgygtkLtYPHsYYoZKFtOvl41.jpg
+watches/X4m0X6Tj7k0xfCTvzkykzcl3Bt3NyZE8AmIQdExQ.jpg
+watches/Sbq8xFijoIjcY1SeQmRRzP6wzBIfzm35Cgk6OZFO.jpg
+watches/3052og2qzALA2gRjjKoKwLoYAgAvkRIxVbAoIe7d.jpg
+watches/zZOW1asnRmVN6yrCHWDYjrCE0PBB9rxzZ8N78t7E.jpg
+watches/GG1DhVxgNVOz0MyVOPApd1prcStnMLgUGQNqrttG.jpg
+watches/1ICqoQorsqz1C2X3HwU7JAaE5EFP7dJybKD5bu8p.jpg
+
+--- ORPHANED ON DISK (On disk but not in DB) ---
+watches/1575d44a-bd5e-4770-a831-ddba153b8e63.jpg
+watches/25675acf-53f9-403d-8178-b803502b3c0b.jpg
+watches/33d28fa5-9496-43fb-a675-cb88c4f855d9.jpg
+watches/4988f1d7-8f73-4d4a-81af-94830f34c806.jpg
+watches/5e3ae809-5e9b-4d8d-8010-d2150d7b1e40.jpg
+watches/6917b5c7-9418-4c81-a963-7b1fbd2a16ab.jpg
+watches/8196459a-1971-471d-9fdb-3b9c74a58d0b.jpg
+watches/96e4f8ed-17ed-49db-a5a7-dd4451c75e16.jpg
+watches/ChatGPT Image Feb 13, 2026, 05_58_55 PM.png
+watches/ChatGPT Image Feb 13, 2026, 06_00_48 PM.png
+watches/ChatGPT Image Feb 13, 2026, 06_01_20 PM.png
+watches/ChatGPT Image Feb 13, 2026, 06_48_40 PM.png
+watches/ChatGPT Image Feb 13, 2026, 06_50_15 PM.png
+watches/ChatGPT Image Feb 13, 2026, 06_54_36 PM.png
+watches/ChatGPT Image Feb 13, 2026, 06_56_59 PM.png
+watches/ChatGPT Image Feb 13, 2026, 06_59_00 PM (1).png
+watches/ChatGPT Image Feb 13, 2026, 06_59_00 PM.png
+watches/Gemini_Generated_Image_f9x666f9x666f9x6.png
+watches/b6ea0321-4889-4241-8ecb-ed662a09a0da.jpg
+watches/d41aa611-d94c-4dd8-ac8e-237bd9e36a88.jpg
+watches/df16a295-469c-4fec-a64a-7a7e62be4602.jpg
+watches/ec8533b5-84f6-45dc-b688-4fed5b7a386e.jpg
+watches/ff3a1c3d-5bbc-4ad4-8a53-e5080dfdf74a.jpg
+

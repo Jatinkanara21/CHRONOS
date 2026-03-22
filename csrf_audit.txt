@@ -1,0 +1,3 @@
+--- CSRF AUDIT REPORT ---
+
+Total missing @csrf: 0
