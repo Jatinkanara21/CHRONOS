@@ -8,7 +8,6 @@ on:
 
 jobs:
   laravel-tests:
-
     runs-on: ubuntu-latest
 
     steps:
@@ -17,16 +16,21 @@ jobs:
     - name: Setup PHP
       uses: shivammathur/setup-php@v2
       with:
-        # Changed from 8.0 to 8.2 to match modern Laravel requirements
         php-version: '8.2'
         extensions: mbstring, xml, ctype, iconv, intl, pdo_sqlite
         coverage: none
+
+    # Speed up your builds by caching vendor folder
+    - name: Cache Composer dependencies
+      uses: actions/cache@v3
+      with:
+        path: /tmp/composer-cache
+        key: ${{ runner.os }}-${{ hashFiles('**/composer.lock') }}
 
     - name: Copy .env
       run: php -r "file_exists('.env') || copy('.env.example', '.env');"
 
     - name: Install Dependencies
-      # Removed -q (quiet) so you can actually see the error if it fails again
       run: composer install --no-ansi --no-interaction --no-scripts --no-progress --prefer-dist
 
     - name: Generate key
@@ -39,6 +43,13 @@ jobs:
       run: |
         mkdir -p database
         touch database/database.sqlite
+
+    # --- THE MISSING PIECE ---
+    - name: Run Migrations
+      env:
+        DB_CONNECTION: sqlite
+        DB_DATABASE: database/database.sqlite
+      run: php artisan migrate --force
 
     - name: Execute tests (Unit and Feature tests) via PHPUnit/Pest
       env:
