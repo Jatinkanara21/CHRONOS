@@ -1,0 +1,19 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1,maximum-scale=1,user-scalable=no">
+  <title>NEON ESCAPE — Urban Pursuit</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <canvas id="game"></canvas>
+  <div id="hud">
+    <div class="top"><div class="brand">NEON ESCAPE</div><div class="mission">MISSION <b>ESCAPE THE TRAFFIC</b></div><div class="heat">HEAT <span id="stars">◆◆◆</span></div></div>
+    <div class="bottom"><div class="speed"><span id="speed">000</span><small>KM/H</small></div><div class="objective">ROOFTOP PARKING <span id="distance">2.4 KM</span></div><div class="minimap"><canvas id="map" width="150" height="150"></canvas></div></div>
+  </div>
+  <div id="start"><h1>NEON ESCAPE</h1><p>Photorealistic-style urban driving prototype</p><button id="startBtn">START ENGINE</button><p class="controls">W / ↑ accelerate · A/D / ←→ steer · SPACE drift brake · R restart</p></div>
+  <div id="complete"><h1>ESCAPE COMPLETE</h1><p>Rooftop secured.</p><button id="restartBtn">DRIVE AGAIN</button></div>
+  <script src="game.js"></script>
+</body>
+</html>
