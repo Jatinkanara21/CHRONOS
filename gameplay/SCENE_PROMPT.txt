@@ -1,0 +1,25 @@
+HYPER-REALISTIC REAL-LIFE CITY RACER — GAME SCENE PROMPT
+
+Create a cinematic, photorealistic gameplay sequence in a fictional modern city at sunset. The player controls a young adult fictional street racer driving an original high-performance sports coupe through busy urban streets. The presentation should feel like a premium AAA open-world driving/action game, with realistic physics, dense environmental detail, natural lighting, and immersive sound, while using entirely original characters, vehicle design, city assets, HUD graphics, music, and branding.
+
+SEQUENCE
+- Open with a cinematic third-person chase camera behind the sports coupe.
+- The player accelerates through moving traffic and performs close, controlled evasive maneuvers.
+- Navigate sharp turns, rapid lane changes, intersections, and controlled drifts.
+- Simulate realistic suspension movement, tire grip, weight transfer, braking, acceleration, and surface-dependent tire slip.
+- Use brief low road-level shots, wheel close-ups, and one dramatic slow-motion camera beat during the biggest drift.
+- Build tension as the fictional five-level heat meter increases during risky driving.
+- Complete the mission by escaping traffic and reaching a rooftop parking deck.
+- Finish with a dramatic controlled stop and a wide skyline view over the glowing sunset city.
+
+WORLD DETAIL
+Modern fictional metropolitan streets, dense traffic, believable pedestrians, traffic signals, road signs, storefronts, parking structures, construction details, street furniture, glass towers, realistic lane markings, reflective surfaces, subtle dust, tire smoke, atmospheric haze, natural long shadows, and physically plausible reflections.
+
+HUD
+Speedometer in km/h, compact minimap with route, mission objective: ESCAPE THE CITY TRAFFIC, fictional 5-level heat/wanted meter, clean high-contrast game UI, minimal clutter.
+
+AUDIO
+Original RPM-responsive engine sound, gear shifts, induction and exhaust layers, tire scrub and screech, traffic ambience, horns, distant sirens, pedestrian ambience, and original cinematic background music that intensifies during the escape and resolves at the rooftop stop.
+
+VISUAL TARGET
+Photorealistic, ultra-detailed, physically based materials, natural sunset lighting, realistic reflections and shadows, cinematic depth of field, restrained motion blur, atmospheric perspective, detailed vehicle surfaces, detailed architecture, 4K-quality assets, high-frame-rate gameplay feel, immersive AAA open-world presentation.
